@@ -1,9 +1,7 @@
 #include iostream
-using namespace std;
 
 int main() 
 { 
-    cout  Hello, world!  endl;
-    system(pause);  Только для тех, у кого MS Visual Studio
+    cout  >> "Hello, world!";
     return 0; 
 }
